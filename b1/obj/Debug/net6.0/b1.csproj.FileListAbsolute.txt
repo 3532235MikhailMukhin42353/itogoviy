@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба зад\SAM\b1\bin\Debug\net6.0\b1.exe
+C:\Users\User\Desktop\Учеба зад\SAM\b1\bin\Debug\net6.0\b1.deps.json
+C:\Users\User\Desktop\Учеба зад\SAM\b1\bin\Debug\net6.0\b1.runtimeconfig.json
+C:\Users\User\Desktop\Учеба зад\SAM\b1\bin\Debug\net6.0\b1.dll
+C:\Users\User\Desktop\Учеба зад\SAM\b1\bin\Debug\net6.0\b1.pdb
+C:\Users\User\Desktop\Учеба зад\SAM\b1\obj\Debug\net6.0\b1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба зад\SAM\b1\obj\Debug\net6.0\b1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба зад\SAM\b1\obj\Debug\net6.0\b1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба зад\SAM\b1\obj\Debug\net6.0\b1.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба зад\SAM\b1\obj\Debug\net6.0\b1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба зад\SAM\b1\obj\Debug\net6.0\b1.dll
+C:\Users\User\Desktop\Учеба зад\SAM\b1\obj\Debug\net6.0\refint\b1.dll
+C:\Users\User\Desktop\Учеба зад\SAM\b1\obj\Debug\net6.0\b1.pdb
+C:\Users\User\Desktop\Учеба зад\SAM\b1\obj\Debug\net6.0\b1.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба зад\SAM\b1\obj\Debug\net6.0\ref\b1.dll
